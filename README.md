@@ -6,7 +6,7 @@
 
 Stats
 ----------------------
-[![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Adi's GitHub stats](https://github-readme-stats.vercel.app/api?username=adi-dev-1337)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 adi-dev-1337/adi-dev-1337 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

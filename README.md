@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adi-dev-1337
-- 👀 I’m interested in sexy code.
-- 🌱 I’m currently learning React
+- 👀 I’m interested in automating everyone out of a boring job to free humanity creatively.
+- 🌱 I’m currently learning sveltekit
 - 💞️ I’m looking to collaborate on anything that I can hide from my main work github
 - 📫 How to reach me - ttv/adi_dev or @\_adidev\_
 

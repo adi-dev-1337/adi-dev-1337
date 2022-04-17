@@ -2,7 +2,7 @@
 - 👀 I’m interested in automating everyone out of a boring job to free humanity creatively.
 - 🌱 I’m currently learning sveltekit
 - 💞️ I’m looking to collaborate on anything that I can hide from my main work github
-- 📫 How to reach me - https://linktr.ee/\_adidev\_
+- 📫 How to reach me - [Linktree](https://linktr.ee/_adidev_)
 
 Stats
 ----------------------

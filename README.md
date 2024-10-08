@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @adi-dev-1337
-- 👀 I’m interested in automating everyone out of a boring job to free humanity creatively.
-- 🌱 I’m currently learning sveltekit
-- 💞️ I’m looking to collaborate on anything that I can hide from my main work github
-- 📫 How to reach me - [Linktree](https://linktr.ee/_adidev_)
+- 👀 I’m interested in helping people
+- 🌱 I’m currently learning LLM deployment
+- 💞️ I’m looking to collaborate on anything
 
 Stats
 ----------------------
